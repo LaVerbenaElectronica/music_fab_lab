@@ -1,4 +1,4 @@
-# MUSIC FAB LAB
+# LABORATORIO DE FABRICACIÓN DIGITAL MUSICAL
 Repositorio de instrumentos realizados en el marco del proyecto laboratorio de fabricación digital musical o MUSIC_FAB_LAB. 
 Los instrumentos son adaptaciones de prototipos existentes cuyas modificaciones atienden a criterios pedagógicos pensados en la accesibilidad dentro de la enseñanza de la música. 
 
