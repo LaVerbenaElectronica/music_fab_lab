@@ -1,5 +1,5 @@
 # LABORATORIO DE FABRICACIÓN DIGITAL MUSICAL
-Repositorio de instrumentos realizados en el marco del proyecto laboratorio de fabricación digital musical o MUSIC_FAB_LAB. 
+Repositorio de instrumentos musicales realizados en el marco del proyecto laboratorio de fabricación digital musical o MUSIC_FAB_LAB. Con la colaboración de Makespace Madrid y el profesorado de la EMMyD María Dolores Pradera. 
 Los instrumentos son adaptaciones de prototipos existentes cuyas modificaciones atienden a criterios pedagógicos pensados en la accesibilidad dentro de la enseñanza de la música. 
 
 Los proyectos que se han modificado, hasta la fecha son: 
