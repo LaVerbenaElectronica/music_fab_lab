@@ -1,0 +1,18 @@
+#N canvas 859 25 914 1002 12;
+#X msg 174 112 start;
+#X msg 159 155 stop;
+#X obj 273 213 readsf~ 2;
+#X obj 269 285 dac~;
+#X obj 273 43 openpanel;
+#X msg 273 95 open \$1;
+#X obj 273 6 bng 20 250 50 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000;
+#X obj 27 44 tgl 20 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X msg 27 69 \; pd dsp \$1;
+#X connect 0 0 2 0;
+#X connect 1 0 2 0;
+#X connect 2 0 3 0;
+#X connect 2 1 3 1;
+#X connect 4 0 5 0;
+#X connect 5 0 2 0;
+#X connect 6 0 4 0;
+#X connect 7 0 8 0;
