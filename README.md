@@ -48,6 +48,6 @@ Prototipo previo: [#[Drone Flute - Printables](https://www.printables.com/model/
 Librería usada: #[Librería Mozzi](https://sensorium.github.io/Mozzi/)]
 
 Adaptaciones:
-* En lugar de usar sensores de tacto o presión se utilizan micros de contacto.
-* Se ha programado una placa bela en lugar de arduino para eliminar la necesidad de ordenador.
-* Se han asociado bucles de ritmos, en lugar de sonidos individuales, para facilitar su utilización por alumnado con necesidades cognitivas.
+* El sensor Drill Flex sirve como interfaz para disparar los diferentes sonidos. 
+* La librería Mozzi permite tocar estos sonidos con toda la duración que sea necesaria, tanto manteniendo la presión del sensor como sin ella.
+* La forma de flauta permite sostenerla con las dos manos y poder interactuar con ella como un instrumento de viento.
