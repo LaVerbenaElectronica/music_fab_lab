@@ -30,4 +30,7 @@ Adaptaciones:
 * 2 x sensores trill bar: [https://eu.shop.bela.io/collections/trill/products/trill-bar](https://eu.shop.bela.io/collections/trill/products/trill-bar)
 * 1 x sensor tril square: [https://eu.shop.bela.io/collections/trill/products/trill-square](https://eu.shop.bela.io/collections/trill/products/trill-square)
 * 1 x sensor trill hub: [https://eu.shop.bela.io/collections/trill/products/trill-hub](https://eu.shop.bela.io/collections/trill/products/trill-hub)
+* 1 x cables de audio: [https://eu.shop.bela.io/collections/extras/products/audio-adapter-cables-3](https://eu.shop.bela.io/collections/extras/products/audio-adapter-cables-3)
+* 1 x cable molex para alargar uno de los sensores: [ejemplo en amazon](https://www.amazon.es/InLine-transmisi%C3%B3n-veloc%C3%ADmetro-Ventilador-33328M/dp/B0FC6KS4T2/ref=sr_1_47?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1FAQ3U6B4HRAQ&dib=eyJ2IjoiMSJ9.27wRj6Cb_X60uoDDwg6rJ95LPzQNAtXGfG2dzfwWALWhMb-2on-sV_n9SY4FnA0Q4nk8BfJour09iAZULnPDgn5DLDiGR6UugTYDjSMcT_96pGcazHbVrUKmZHqaLAv87AtJayWAqghuZu_9FSvHcbIfb4SAg9WYc5x1f4rfozDlooERS8JYKSl7uBjXdbDrI13As1aNRh4hXSh8kzowrhcmqj6nkSQpl9GlH-4x_6dxh0CKlAob6htNy0E-YrdpOI9Z4w8nJlt1YaAi_1K-qVlC28dM6SeMwZWWUOvK-dg.ac4NkeE-55GfqwoK-k7bSiICQiVAfTTkQ9U-dyY2t0c&dib_tag=se&keywords=cable+3+pines+Molex&qid=1772741326&sprefix=cable+3+pines+molex%2Caps%2C265&sr=8-47)
+* (opcion 1) 1 x bateria: 
 
