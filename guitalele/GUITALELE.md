@@ -23,3 +23,11 @@ Adaptaciones:
 * Powerbank.
 
 ## CONSTRUCCIÓN
+
+### Lista de materiales: 
+
+1 x placa Bela: [https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-gem-stereo](https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-gem-stereo?variant=57799327646077)
+2 x sensores trill bar: [https://eu.shop.bela.io/collections/trill/products/trill-bar](https://eu.shop.bela.io/collections/trill/products/trill-bar)
+1 x sensor tril square: [https://eu.shop.bela.io/collections/trill/products/trill-square](https://eu.shop.bela.io/collections/trill/products/trill-square)
+1 x sensor trill hub: [https://eu.shop.bela.io/collections/trill/products/trill-hub](https://eu.shop.bela.io/collections/trill/products/trill-hub)
+
