@@ -15,17 +15,6 @@ Adaptaciones:
 ## MATERIALES DE LA PARTE ELECTRÓNICA
 
 ### Versión 1. V1.
-* Placa Bela mini.
-* Sensor Trill tipo bar x2
-* Sensor Trill tipo square
-* Sensor hub
-* Cables de pin para alargar las conexiones.
-* Powerbank.
-
-## CONSTRUCCIÓN
-
-### Lista de materiales: 
-
 * 1 x placa Bela: [https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-gem-stereo](https://eu.shop.bela.io/collections/bela-and-bela-mini/products/bela-gem-stereo?variant=57799327646077) (78€)
 * 2 x sensores trill bar: [https://eu.shop.bela.io/collections/trill/products/trill-bar](https://eu.shop.bela.io/collections/trill/products/trill-bar) (18€)
 * 1 x sensor tril square: [https://eu.shop.bela.io/collections/trill/products/trill-square](https://eu.shop.bela.io/collections/trill/products/trill-square) (18€)
@@ -38,4 +27,8 @@ Adaptaciones:
 * (opcion 1) 1 x bateria: [ejemplo de amazon](https://www.amazon.es/INIU-port%C3%A1til-cargador-Powerbank-compatible/dp/B07PNL5STG/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1MCE66239RAJR&dib=eyJ2IjoiMSJ9.h4zcxfSFyBujMnpouhHexWznZKmy9Y0fPs1mMGQ_UhxFjvNlWco8G7kDT0KQ6JfRL7wIQTt4hW6s_D7Z0382DXViL8byKmNSesIYMU10QlJEts89k69-WFxrRIu5HWjHqGHCQZxh9LeiJYeSQOPN9uidKxQb8eg1G6XcS1LR_R2Y73NffK8vVQiZUWGxgPvhWkIES9VlQCKdHdZ7T1V2Ny5Tx-rMaMdjtyMJhbD3CqKRrTg7DuSrvWpNcLR76i_kDZb8qfERMlOSUSQ6t6u8SyI9G6xVZXpthig-Sff1NkM.DhVIHmxC_n1d6chkKDzh607A1-pYE0_z3TjziBA8J6A&dib_tag=se&keywords=power+bank&qid=1772741537&sprefix=powerban%2Caps%2C301&sr=8-5) (17€)
 * (opcion 2) 1 x cargador para la corriente de usb c: [propuesta de amazon](https://www.amazon.es/Fuente-alimentaci%C3%B3n-Enchufe-USB-Tipo/dp/B0BYS7PKSX/ref=sr_1_10?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1UWFY9VHINTL&dib=eyJ2IjoiMSJ9.l1yRV_8_Mb4dwwdPgUyFP0tOrkO1LBhBXG6hfdImDXx4vdEVzGPx_Kw2xCuFzIiJ6W9WSytnSHZshC31ul0GCW0fZTB5Wy8WYN54loH3BB3ROQBZO1QM4FASTfMzPq1IkX-8AdKLyftH-Cb-wOqvcUC4KCRnjqr738OnKH5Xoq4UH0-tju7pP5rGvvEPsfsnbJ9Y0LVTl-6LVmPbItj6syjB2CeDrj4o0L8JpkNz8vEfsqKK7a5wMHpQO-JLBk_ZuuP11jQNShhs_r0Iryfny_ljGvgyuJBUJuleFL0n698.bUpkhKV4QfekEwVzm2S0kw-zh7qCwEtnqEfpVsbW2G0&dib_tag=se&keywords=usb-c+power+adapter+5v&qid=1772741756&sprefix=usb-c+power+adapter+5v%2Caps%2C317&sr=8-10) (12€)
 * 20 x horas de impresión 3d: 1€/hora => 20€
+
+## CONSTRUCCIÓN
+
+
 
