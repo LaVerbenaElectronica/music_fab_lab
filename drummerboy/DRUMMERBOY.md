@@ -13,4 +13,3 @@ Adaptaciones:
 
 ### Materiales
 
-1 x Bela placa 
