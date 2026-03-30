@@ -41,8 +41,8 @@ Adaptaciones:
 * Se ha programado una placa bela en lugar de arduino para eliminar la necesidad de ordenador.
 * Se han asociado bucles de ritmos, en lugar de sonidos individuales, para facilitar su utilización por alumnado con necesidades cognitivas.
 
-## FLAUTADRONE _______ [+ Info](/drummerboy/DRUMMERBOY.md)
-![image](/imagenes/flauta.png)
+## FLAUTADRONE _______ [+ Info](/drummerboy/FLUTEDRONE.md)
+![image](/imagenes/flutedrone.png)
 Este instrumento no está inspirado en otro diseño anterior. A lo largo del desarrollo del proyecto he ido planteandome la necesidad de usar un instrumento harmónico. Es cierto que el guitalele produce acordes, pero pensaba más en un instrumento que realmente pudiera controlar intervalos. Inspirado en las flautas antiguas duales que permiten hacer sonidos polifónicos y aprovechando los sensores trill flex que se adquieron en el proyecto. He querido diseñar un instrumento que pudiera tocarse usando librerías de sonidos electrónicos generados y no con grabaciones. El diseño 3d sí que está basado en uno existente y la librería de sonido se llama Mozzi.
 Prototipo previo: [#[Drone Flute - Printables](https://www.printables.com/model/896094-drone-tin-whistle-fully-3d-printed-working)]
 Librería usada: #[Librería Mozzi](https://sensorium.github.io/Mozzi/)]
