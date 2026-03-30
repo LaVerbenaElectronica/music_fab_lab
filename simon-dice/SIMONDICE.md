@@ -1,5 +1,5 @@
 ## SimonDice
-![image](/imagenes/simon-dice.jpg)
+![image](/imagenes/simondice.png)
 Este proyecto está basado en el juego de Simon Dice, pero en la implementación para arduino desarrollada por DIY Machines. Con cambios en la programación.
 Prototipo: #[Simon Says](https://www.diymachines.co.uk/make-your-own-simon-says-memory-game). 
 
