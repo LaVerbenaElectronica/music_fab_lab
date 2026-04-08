@@ -1,5 +1,5 @@
 ## Taller de Prototipado
-
+![image](/imagenes/taller-prototipado.jpg)
 A continuación se describe el taller de prototipado generado como continuación del proyecto MUSIC FAB LAB, que tiene como objetivo hacer más accesible
 el proceso de diseño de instrumentos musicales usando los elementos de los instrumentos de MUSIC FAB LAB. Para ello, se van a diseñar objetos 3D planos, 
 que se van a conectar usando tornillos y cinta, para crear formas diferentes de pensar la instrumentación musical accesible. 
